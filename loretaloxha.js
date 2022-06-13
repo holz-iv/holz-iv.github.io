@@ -24,6 +24,6 @@ var x = setInterval(function() {
   // If the count down is finished, write some text
   if (distance < 0) {
     clearInterval(x);
-    window.location.replace("http://www.w3schools.com");
+    window.location.replace("http://www.google.com");
   }
 }, 1000);
