@@ -1,4 +1,4 @@
-## Welcome to GitHub Pagesdddd
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/holz-iv/holz-iv.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
